@@ -7,18 +7,32 @@ Long story short, Days Bygone players get a captcha when AFKying for too long. T
 
 --REQUIREMENTS
 
+
 PC
+
 An Android Phone (preferably a second or an old unused phone)
+
 ADB
+
 Pillow
+
 Python
+
 Pytesseract
+
 USB Cable (obviously)
+
+
 
 --USAGE
 
+
 1: Open cmd
+
 2: Type 'cd your\directory\here'
+
 3: pip install requirements.txt
+
 4: connect your phone to your computer
+
 5: IDK yet
