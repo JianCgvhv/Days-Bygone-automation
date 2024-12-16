@@ -1,0 +1,14 @@
+{
+  "crop_coordinates": {
+    "sharanga": [100, 200, 300, 400],
+    "option_1": [350, 200, 550, 400],
+    "option_2": [600, 200, 800, 400],
+    "option_3": [850, 200, 1050, 400]
+  },
+  "options": ["option_1", "option_2", "option_3"],
+  "tap_coordinates": {
+    "option_1": [450, 300],
+    "option_2": [700, 300],
+    "option_3": [950, 300]
+  }
+}
